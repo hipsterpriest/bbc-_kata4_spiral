@@ -6,9 +6,7 @@ Input: matrix = [ [1,2,3], [4,5,6], [7,8,9] ]
 
 Output: [1,2,3,6,9,8,7,4,5]
 
-See image below for a visual.
-
-Constraints
+**Constraints**
 
 m == matrix.length
 
@@ -18,11 +16,11 @@ n == matrix[i].length
 
 -100 <= matrix[i][j] <= 100
 
-Thoughts
+**Thoughts**
 
 Can you do this in an object-oriented style? 
 Or a functional programming one?
 Too easy? Can you add a visual representation like the one below?
  
 
-Credit: leetcode.com (see here for more info, examples and hints)
+Credit: leetcode.com
