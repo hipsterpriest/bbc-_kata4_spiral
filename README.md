@@ -16,11 +16,4 @@ n == matrix[i].length
 
 -100 <= matrix[i][j] <= 100
 
-**Thoughts**
 
-Can you do this in an object-oriented style? 
-Or a functional programming one?
-Too easy? Can you add a visual representation like the one below?
- 
-
-Credit: leetcode.com
